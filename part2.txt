@@ -5,13 +5,13 @@ apsscode 2: iHateCplusplus
 Passcode 3: HTMLRocks
 Passcode 4: JavaScriptRules
 Passcode 5: SvelteBeatsReact
-
+Passcode 6: ThisIsJS
 Passcode 7: YouFoundMe
 passcode 8: coolcoolcool
 passcode 9: 2020sucked
-
-passcode 11:a11yComesFirst
-Passcode 12= iLoveWebDev
+passcode 10: listenToTheBlackKeys
+passcode 11: a11yComesFirst
+Passcode 12: iLoveWebDev
 
 
 
